@@ -4,19 +4,30 @@ This project brings that magic to life using Python and OpenCV!
 By detecting a specific color (e.g., a red cloak), we can replace that region with the background — making you look invisible!
 
 ✨ Features
+
 Real-time invisibility effect 🪄
+
 Color detection using HSV color space 🎨
+
 Simple OpenCV operations for background replacement 📷
+
 Inspired by the Invisibility Cloak from the Harry Potter universe 🧥
 
+
 📋 Requirements
+
 Python 3.x
 OpenCV
 
+
 🛠️ How to Run
+
 Clone/download this repository.
+
 Connect your webcam.
+
 Run the script.
+
 
 🎯 How It Works
 
