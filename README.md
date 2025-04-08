@@ -19,9 +19,14 @@ Connect your webcam.
 Run the script.
 
 🎯 How It Works
+
 Capture the Background: Before starting, the background is recorded without any movement.
+
 Detect Cloak Color: We detect a specific color (say, red) using the HSV color space.
+
 Create a Mask: The cloak is isolated using masks.
+
 Replace with Background: The detected cloak region is replaced by the previously captured background.
+
 Result: You disappear — just like magic!
 
